@@ -1,2 +1,2 @@
 # Hangman
-Famous word game, Hangman built in React
+Famous word game Hangman, built in React
